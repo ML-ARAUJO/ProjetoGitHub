@@ -1,0 +1,1 @@
+Verificar se os arquivos estão sendo sincronizado a cada vez que faz alguma alteração

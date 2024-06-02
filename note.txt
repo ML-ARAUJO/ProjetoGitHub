@@ -1,1 +1,2 @@
-Verificar se os arquivos estão sendo sincronizado
+Verificar se os arquivos estão sendo sincronizado.
+Atualizar Web.

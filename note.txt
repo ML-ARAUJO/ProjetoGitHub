@@ -1,2 +1,2 @@
-Verificar se os arquivos estão sendo sincronizado.
-Atualizar Web.
+Realizando o cursos de Git e GitHub: Controle e Compartilhe seu código
+# 04/06: 05. Manipulando as versões - Aula: Consolidando o seu conhecimento.
